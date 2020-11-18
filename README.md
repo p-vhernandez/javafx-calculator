@@ -2,8 +2,8 @@
 
 In the App.java file you will find the main function, where you can choose which approach to run:
   - Calculator 1: using calculator-ui-1.fxml, first approach.
-  - Calculator 2: using calculator-ui-2.fxml, first approach.
-  - Calculator 3: using calculator-ui-3.fxml, first approach.
+  - Calculator 2: using calculator-ui-2.fxml, second approach.
+  - Calculator 3: using calculator-ui-3.fxml, third approach.
 
 ## Getting Started
 
